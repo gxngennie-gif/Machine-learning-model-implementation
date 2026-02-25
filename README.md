@@ -69,3 +69,5 @@ This project can be used in:
 
 
 #output:
+
+<img width="460" height="221" alt="Image" src="https://github.com/user-attachments/assets/41785062-c0a3-4451-a625-a4716797bc01" />
